@@ -168,7 +168,7 @@ h4 .lighter
    background-color: yellow;
    background-image: url(images/dashlet-title-bg.png);
    background-repeat: repeat-x;
-   color: #fff;
+   color: #000;
 }
 
 .dashlet .feed
