@@ -574,7 +574,7 @@ span.mce_alfresco-linklibrary
 .yui-skin-beeTheme div.flat-button span.yui-radio-button-checked,
 .yui-skin-beeTheme div.flat-button span.yui-checkbox-button-checked
 {
-   background: #5FAC34 none;
+   background: yellow none;
 }
 
 /* Override checked styles for doclist */
